@@ -53,7 +53,8 @@ u1 database design/migration 20pts
    create the database using migration scripts 5pts
    database seeding. seed all database tables 5pts
 
-u2 functional requirements completeness app complexity, added features. program execution (errors), 10pts
+u2 functional requirements completeness app complexity, added features. 10pts 
+   program execution (errors), 10pts
    project contribution 10pts
 
 Term Test Lec. written 

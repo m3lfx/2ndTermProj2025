@@ -36,9 +36,3 @@ unit 2 node backend functions, jwt tokens stored on SQLite or expo secure store.
     functional requirements 10pts
     program execution 10pts
     project contribution 10pts
-  
-
-
-
-
- 

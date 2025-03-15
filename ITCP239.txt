@@ -11,6 +11,9 @@
     users can leave a review/rating on verified purchased products/services. 
     users can update their own reviews/ratings.
 
+mp4 save cart contents on asyncsorage or secure storage before checkout. get items when app is opened. delete contents after checkout. 12pts
+save cart contents on SQLite before checkout. get items when app is opened delete contents after checkout. 20
+
  term test transaction 35pts
     completed transaction. 10pts
     update status of transaction. 5pts
